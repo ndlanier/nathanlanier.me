@@ -1,0 +1,59 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nathanlanier.me" resolutions="1x" timestamp="1443986704945">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="4112613309" ref="contact:projects:index:duelingtools"/>
+    <file name="contact.css" crc="164563811" ref="contact"/>
+    <file name="projects.css" crc="473362482" ref="projects"/>
+    <file name="index.css" crc="276307844" ref="index"/>
+    <file name="duelingtools.css" crc="3902224110" ref="duelingtools"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:projects:contact:duelingtools"/>
+    <file name="museutils.js" crc="275725342" ref="index:projects:contact:duelingtools"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:projects:contact:duelingtools"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:contact:projects"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:projects:contact:duelingtools"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projects:contact:duelingtools"/>
+    <file name="pie.js" crc="3827607177" ref="projects:duelingtools"/>
+    <file name="webpro.js" crc="3883484123" ref="contact:duelingtools"/>
+    <file name="form_check.php" crc="3932029206" ref="contact"/>
+    <file name="form_process.php" crc="401030677" ref="contact"/>
+    <file name="form-u191.php" crc="3789463935" ref="contact"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="duelingtools"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="duelingtools"/>
+    <file name="touchswipe.js" crc="4218319045" ref="duelingtools"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u81-4.png" crc="495813786" ref="index:projects:contact:duelingtools"/>
+    <file name="u116-4.png" crc="321020537" ref="index:projects:contact:duelingtools"/>
+    <file name="u187-4.png" crc="4261963039" ref="index:projects:contact:duelingtools"/>
+    <file name="u75-4.png" crc="3991775866" ref="index:projects:contact:duelingtools"/>
+    <file name="pixel_art_city.jpg" crc="3945377486" ref="index:projects:contact"/>
+    <file name="u153-4.png" crc="241142789" ref="index"/>
+    <file name="u210-4.png" crc="3814823241" ref="projects"/>
+    <file name="dueltool_icon_60p_app_3x.jpg" crc="377336249" seo="true" ref="projects"/>
+    <file name="u126-4.png" crc="409715432" ref="projects"/>
+    <file name="u133-4.png" crc="235769418" ref="duelingtools"/>
+    <file name="dueltool_icon_60p_app_3x81x81.jpg" crc="4156093577" seo="true" ref="duelingtools"/>
+    <file name="download_on_the_app_store_badge_us-uk_135x40.svg" crc="205710994" ref="duelingtools"/>
+    <file name="download_on_the_app_store_badge_us-uk_135x40_poster_.png" crc="3994011303" ref="duelingtools"/>
+    <file name="iphone-6s-space-gray-vertical.png" crc="261357001" seo="true" ref="duelingtools"/>
+    <file name="u209-4.png" crc="4162858162" ref="contact"/>
+    <file name="u207-17.png" crc="311828129" ref="contact"/>
+    <file name="u207-17-r.png" crc="3844863548" ref="contact"/>
+    <file name="u207-17-m.png" crc="446077895" ref="contact"/>
+    <file name="u207-17-fs.png" crc="265819223" ref="contact"/>
+    <file name="screen shot 2015-10-04 at 114002 am.jpg" crc="319866931" seo="true" ref="duelingtools"/>
+    <file name="blank.gif" crc="4208392903" ref="duelingtools"/>
+    <file name="screen shot 2015-10-04 at 114022 am.jpg" crc="3874800882" seo="true" ref="duelingtools"/>
+    <file name="screen shot 2015-10-04 at 114042 am.jpg" crc="3921020948" seo="true" ref="duelingtools"/>
+    <file name="screen shot 2015-10-04 at 114153 am.jpg" crc="475688273" seo="true" ref="duelingtools"/>
+    <file name="screen shot 2015-10-04 at 114215 am.jpg" crc="4169482462" seo="true" ref="duelingtools"/>
+    <file name="loading.gif" crc="3815509949" ref="duelingtools"/>
+  </folder>
+  <file name="index.html" crc="475562136" seo="true" mt="1443982655785" redirect="true"/>
+  <file name="projects.html" crc="334221801" seo="true" mt="1443983741508" redirect="true"/>
+  <file name="contact.html" crc="330603795" seo="true" mt="1443985586358" redirect="true"/>
+  <file name="duelingtools.html" crc="369997991" seo="true" mt="1443983741510" redirect="true"/>
+</manifest>
